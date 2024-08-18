@@ -1,0 +1,453 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 3px solid white;
+    border-radius: 25px;
+}
+
+.main{
+    height: 2100px;
+    width: 100vw;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+.searchbar{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: space-around;
+}
+.enable{
+    background-color: black;
+    border-radius: 30px;
+    padding: 20px;
+    color: white;
+}
+.searchbar>input{
+    width: 70%;
+    background-color: rgb(233, 233, 233);
+    height: 10vh;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+.searchbar>img{
+    width: 30px;
+    height: 30px;
+}
+.column1{
+    height: 2050px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.box1{
+    height: 300px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic1.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box2{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic2.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box3{
+    height: 200px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic3.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box4{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic4.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box5{
+    height: 350px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic5.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box6{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic6.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box7{
+    height: 150px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic7.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box8{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic8.jpg);
+    background-size: cover;
+    background-position: center;   
+   
+}
+
+.column2{
+    height: 2050px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box9{
+    height: 360px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic9.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box10{
+    height: 230px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic10.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box11{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic11.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box12{
+    height: 160px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic12.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box13{
+    height: 300px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic13.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box14{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic14.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box15{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic15.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box16{
+    height: 200px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic16.jpg);
+    background-size: cover;
+    background-position: center;   
+}
+
+.column3{
+    height: 2050px;
+    width: 250px;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box17{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic17.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box18{
+    height: 290px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic18.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box19{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic19.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box20{
+    height: 210px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic20.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box21{
+    height: 260px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic21.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box22{
+    height: 290px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic22.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box23{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic23.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box24{
+    height: 200px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic24.jpg);
+    background-size: cover;
+    background-position: center;   
+}
+
+.column4{
+    height: 2050px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box25{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic25.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box26{
+    height: 165px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic26.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box27{
+    height: 285px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic27.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box28{
+    height: 300px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic28.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box29{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic29.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box30{
+    height: 190px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic30.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box31{
+    height: 310px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic31.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box32{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic32.jpg);
+    background-size: cover;
+    background-position: center;   
+}
+
+.column5{
+    height: 2050px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.box33{
+    height: 230px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic33.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box34{
+    height: 350px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic34.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box35{
+    height: 220px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic35.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box36{
+    height: 200px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic36.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box37{
+    height: 300px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic37.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+.box38{
+    height: 165px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic38.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.box39{
+    height: 250px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic39.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.box40{
+    height: 285px;
+    width:250px;
+    box-sizing: border-box;
+    background-image: url(Asset/Pic40.jpg);
+    background-size: cover;
+    background-position: center;   
+}
+
+
+
